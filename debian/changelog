@@ -1,8 +1,0 @@
-ros-hydro-flir-ptu-description (0.1.0-0quantal) quantal; urgency=high
-
-  * Completed basic tf tree and model of D46.
-  * Contributors: Mike Purvis
-
- -- Mike Purvis <mpurvis@clearpathrobotics.com>  Thu, 10 Apr 2014 04:00:00 -0000
-
-
