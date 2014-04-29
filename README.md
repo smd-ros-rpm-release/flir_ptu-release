@@ -1,3 +1,25 @@
+## flir_ptu (hydro) - 0.1.3-0
+
+The packages in the `flir_ptu` repository were released into the `hydro` distro by running `/usr/local/bin/bloom-release -r hydro -t hydro flir_ptu` on `Tue, 29 Apr 2014 19:37:27 -0000`
+
+These packages were released:
+- `flir_ptu_description`
+- `flir_ptu_driver`
+- `flir_ptu_viz`
+
+Version of package(s) in repository `flir_ptu`:
+- rosdistro version: `0.1.2-0`
+- old version: `0.1.2-0`
+- new version: `0.1.3-0`
+
+Versions of tools used:
+- bloom version: `0.5.4`
+- catkin_pkg version: `0.2.1`
+- rosdep version: `0.10.25`
+- rosdistro version: `0.3.4`
+- vcstools version: `0.1.33`
+
+
 ## flir_ptu (indigo) - 0.1.3-0
 
 User `mikepurvis@Mikes-MacBook-Pro-3.local` released the packages in the `flir_ptu` repository into the `indigo` distro by running `/usr/local/bin/bloom-release -t indigo -r indigo flir_ptu` on `Sun, 13 Apr 2014 21:45:01 -0000`
