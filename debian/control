@@ -1,0 +1,12 @@
+Source: ros-hydro-flir-ptu-description
+Section: misc
+Priority: extra
+Maintainer: Mike Purvis <mpurvis@clearpathrobotics.com>
+Build-Depends: debhelper (>= 7.0.50~), ros-hydro-catkin, ros-hydro-xacro
+Homepage: http://wiki.ros.org/flir_ptu_driver
+Standards-Version: 3.9.2
+
+Package: ros-hydro-flir-ptu-description
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-hydro-urdf, ros-hydro-xacro
+Description: URDF description the FLIR PTUs, currently the D46.
