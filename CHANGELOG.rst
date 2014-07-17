@@ -2,6 +2,12 @@
 Changelog for package flir_ptu_viz
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.1.4 (2014-07-17)
+------------------
+* Update and install the rviz config as well.
+* Install launch files for viz.
+* Contributors: Mike Purvis
+
 0.1.3 (2014-04-13)
 ------------------
 * catkin_lint fixes
